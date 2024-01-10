@@ -1,4 +1,4 @@
 ##Command to run the project
 ```
-docker-compose run
+docker-compose up
 ```
